@@ -127,4 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-Pretrained_data/
+Pretrained_data/Model/
+Pretrained_data/Checkpoint_weight/
