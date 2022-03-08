@@ -29,7 +29,7 @@ I implemented 3 loss terms to support Generator reconstruct Super Resolution ima
 * Feature Loss <div align="center"><img src="https://user-images.githubusercontent.com/65795540/157160736-6d120d19-74be-420e-8d49-9c439bff8aab.png" /></div>
 * Style Loss <div align="center"><img src="https://user-images.githubusercontent.com/65795540/157160776-d33d4261-059f-46cf-a996-4d28eb855796.png" /></div>
 ****
-combine
+
 And with Adversarial Loss I used LSGAN combine with Relativistic average GAN:
 * For Generator <div align="center"><img src="https://user-images.githubusercontent.com/65795540/157160928-24f85c65-2821-47d1-ac63-988d9e3df9c7.png" /></div>
 * For Discriminator <div align="center"><img src="https://user-images.githubusercontent.com/65795540/157160963-bab6474a-ab60-4c5f-9bb9-6c927b020963.png" /></div>
