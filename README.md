@@ -1,5 +1,5 @@
 # [Research on Generative adversarial networks for Super Resolution](https://github.com/dang3tion/Colab-Super_resolution)
-Referenced papers:
+Reference papers:
 :bookmark_tabs:
 * [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802)
 * [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219)
